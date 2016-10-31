@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "fd261a3b4980c6e1cd3f4c12346dd062"
+build_time: [530993841, 640923000]
+inputs:
+  "/Users/halo/src/Lz77Codec/Sources/decoder.swift": [530835383, 0]
+  "/Users/halo/src/Lz77Codec/Sources/encoder.swift": [530993841, 0]
+  "/Users/halo/src/Lz77Codec/Sources/main.swift": [530835605, 0]
